@@ -1,4 +1,4 @@
-# Lernify-LMS (Learning Management System)
+# Learnify-LMS (Learning Management System)
 ````markdown
 
 ## How to Run the Project
@@ -39,6 +39,5 @@ cd frontend
 npm install
 npm run dev
 ```
-- For optimal display, view at 125% zoom in Chrome.
 ```
-```
+
